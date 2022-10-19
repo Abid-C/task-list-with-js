@@ -138,7 +138,7 @@ main {
 }
 
 .task .actions button:active {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .task .actions .edit {
